@@ -1,7 +1,7 @@
 name: GeoProtection
 version: 1.0.0
 author: applqpak
-api
+api:
 - 1.0.0
 - 2.0.0
 main: GeoProtection\Main
