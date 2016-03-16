@@ -54,7 +54,7 @@
 
       touch($this->dataPath() . "user_city.txt");
 
-      file_put_contents($this->dataPath() . "user_city.txt", "player: city\n");
+      file_put_contents($this->dataPath() . "user_city.txt", "Format: player: city\n");
 
       $this->getServer()->getLogger()->info("GeoProtection files created.");
 
