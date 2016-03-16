@@ -9,7 +9,7 @@ Install this plugin. (Duh)
 #2.
 Restart your server.
 #3.
-Get all the users you want to GeoProtect to go to ipinfo.io and pass the city they see on to you.
+Get all the users you want to GeoProtect to go to (http://ipinfo.io)[here] and pass the city they see on to you.
 #4.
 Put their IGN's(In-Game Names)into the users.yml file in the GeoProtection folder.
 #5.
