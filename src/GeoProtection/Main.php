@@ -78,4 +78,17 @@
 
         $player_city = getUserCity($player_ip);
 
-        
+        if($this->configGet($this->dataPath() . "user_city.txt", $player_name) !== $player_city)
+        {
+
+          $player->kick("Invalid City.", false);
+
+        }
+
+      }
+
+    }
+
+  }
+
+?>
